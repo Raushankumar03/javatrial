@@ -1,0 +1,23 @@
+GIT AND GIT HUB
+
+Q1. What is git?
+Ans--Git is a popular version control system, it is creatwed by LINUS TORVALDS in 2005 and has beenmaintained by Junio hamanow.
+Q2. what do you understand by the term 'version control system' ?
+Ans-- It isasystem that records chaanges to a files or se of files over time ,sothat we can recall specific versions later i.e.,for every scource code changes ina file anew version will be created .
+       there are two types of version control system .
+      1.centralied version contro;l system .
+      2.distributed  version control system .
+Q3.what is github?
+ANs---Github is a code hostling platform for version control and collabration. it lets you and others work together  on projects from any where . This tutorial teaches you GitHub essential like repositories , branches commits and pull requests.
+Q4.Mention some popular Git hostling Services.
+Ans---GitHub ,Gitlab,Bitbucket,Gitblit etc.
+Q5.Different type of version control system 
+Ans-- There are two types of version control system .
+         (a) Centralisd version control system .
+         (b) Distributed version control system .
+Q6.What benefits come with using Git ?
+Ans--The benefits come with using Git is its branching capabilities .feature branches provide an isolated environment for every change your code .
+Q7.what is aGit repository?
+Ans---a Git repository tracks and saves the history ofall changes made to the files on a Git project.
+Q8.How caan you initialias a repository in a Git ?
+Ans--To create a new repo . we will use the command git init.
